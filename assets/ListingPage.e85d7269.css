@@ -1,0 +1,1 @@
+.grid-container[data-v-b9e5881f]{display:grid;gap:4px}.grid-container .card__img[data-v-b9e5881f]{width:100%;overflow:hidden}@media screen and (min-width: 480px){.grid-container[data-v-b9e5881f]{grid-template-columns:repeat(2,1fr)}}@media screen and (min-width: 1600px){.grid-container[data-v-b9e5881f]{grid-template-columns:repeat(3,1fr)}}
