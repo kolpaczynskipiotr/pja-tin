@@ -2,6 +2,7 @@
     "name": "tin_01",
     "version": "0.0.0",
     "private": false,
+    "homepage": "https://kolpaczynskipiotr.github.io/pja-tin_01/",
     "scripts": {
         "dev": "vite",
         "build": "run-p type-check build-only",
