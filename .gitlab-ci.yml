@@ -4,8 +4,8 @@ pages:
   cache:
     key:
       files:
-        - package-lock.json
-      prefix: npm
+        - yarn-lock.json
+      prefix: yarn
     paths:
       - node_modules/
   script:
